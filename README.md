@@ -1,2 +1,2 @@
-# kattis
-My Kattis Solutions
+# My Kattis Solutions
+
