@@ -12,4 +12,6 @@
 | [Grandpa Bernie](https://open.kattis.com/problems/grandpabernie) | [Java](https://github.com/szeying02/kattis/blob/main/Grandpa%20Bernie/GrandpaBernie.java)
 | [Mjehuric](https://open.kattis.com/problems/mjehuric) | [Java](https://github.com/szeying02/kattis/blob/main/Mjehuric/Mjehuric.java) |
 | [Opening Ceremony](https://open.kattis.com/problems/ceremony) | [Java](https://github.com/szeying02/kattis/blob/main/Opening%20Ceremony/OpeningCeremony.java) |
+| [Sideways Sorting](https://open.kattis.com/problems/sidewayssorting) | [Java](https://github.com/szeying02/kattis/blob/main/Sideways%20Sorting/SidewaysSorting.java) |
+| [Sort of Sorting](https://open.kattis.com/problems/sortofsorting) | [Java](https://github.com/szeying02/kattis/blob/main/Sort%20of%20Sorting/SortOfSorting.java) |
 | [The Grand Adventure](https://open.kattis.com/problems/thegrandadventure) | [Java](https://github.com/szeying02/kattis/blob/main/The%20Grand%20Adventure/TheGrandAdventure.java)
